@@ -18,7 +18,7 @@ function Introducing() {
             </i>
             <br />
             <br />
-            I debug more than I code.
+            I am quite ambitious when it comes to discovering new technology and new skills...
             <br />
             <br />I think that The most
             <i>
