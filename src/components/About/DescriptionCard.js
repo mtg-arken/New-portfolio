@@ -29,7 +29,7 @@ function DescriptionCard() {
             </li>
           </ul>
           <a
-            href={require("../../Assets/CV.pdf")}
+            href={require("../../Assets/CV Mohamed Arken Maatoug.pdf")}
             target="_blank"
             className="cv"
             rel="noreferrer"
