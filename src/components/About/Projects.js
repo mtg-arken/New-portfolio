@@ -30,10 +30,11 @@ function Projects() {
       <h1>Projects</h1>
       <Swiper navigation={true} modules={[Navigation]} className="mySwiper">
         {projects.map((project, index) => (
+          
           <SwiperSlide key={index}>
             <div className="project-card">
               <h2 className="purple">{project.title}</h2>
-              <h5>{project.description}</h5>
+              <p>{project.description}</p>
             </div>
           </SwiperSlide>
         ))}

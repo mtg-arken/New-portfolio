@@ -10,7 +10,7 @@ import {
   DiJava,
   DiBootstrap,
 } from "react-icons/di";
-
+import { BsFiletypeScss } from "react-icons/bs";
 function TechStack() {
   return (
     <>
@@ -29,7 +29,7 @@ function TechStack() {
           <DiReact />
         </div>
         <div className="col-lg-3 col-md-4  tech-icons">
-          <DiBootstrap />
+          <BsFiletypeScss />
         </div>
         <div className="col-lg-3 col-md-4  tech-icons">
           <DiNodejs />
